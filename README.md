@@ -1,7 +1,7 @@
 # 我的学习笔记
 ## 目录
 1. [计算机基础](https://github.com/hhhhfff/myNotes/tree/master/ComputerScience)
-    - [数据结构](https://github.com/hhhhfff/myNotes/tree/master/ComputerScience/DataStructure)
+    - [数据结构](https://github.com/hhhhfff/myNotes/tree/master/ComputerScience/DataStructure/DataStructure.md)
     - [组成原理(空)](https://github.com/hhhhfff/myNotes/tree/master/ComputerScience/ComputerOrganization)
     - [操作系统(空)](https://github.com/hhhhfff/myNotes/tree/master/ComputerScience/OperatingSystem)
     - [计算机网络(空)](https://github.com/hhhhfff/myNotes/tree/master/ComputerScience/ComputerNetworking)
