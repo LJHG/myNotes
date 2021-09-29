@@ -14,7 +14,7 @@
     - [code-server](https://github.com/hhhhfff/myNotes/tree/master/MyExperience/code-server.md)
     利用云服务器配置云端vscode
 
-### 备注
+## 备注
 空的内容不一定是我没学,可能只是没有整理出文档笔记.虽然有的确实还没学.
 
 其他笔记是我捣鼓一些东西的时候,跟着网上的教程整合出的一套适合自己的教程.不一定适合所有人.
