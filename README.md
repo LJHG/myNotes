@@ -4,7 +4,7 @@
     - [数据结构](https://github.com/hhhhfff/myNotes/tree/master/ComputerScience/DataStructure/DataStructure.md)
     - [组成原理](https://github.com/hhhhfff/myNotes/tree/master/ComputerScience/ComputerOrganization/ComputerOrganization.md)
     - [操作系统(空)](https://github.com/hhhhfff/myNotes/tree/master/ComputerScience/OperatingSystem/OperatingSystem.md)
-    - [计算机网络(空)](https://github.com/hhhhfff/myNotes/tree/master/ComputerScience/ComputerNetworking/ComputerNetworking)
+    - [计算机网络](https://github.com/hhhhfff/myNotes/tree/master/ComputerScience/ComputerNetworking/ComputerNetworking)
 2. [高等数学](https://github.com/hhhhfff/myNotes/tree/master/FurtherMathematics)
     - [微积分(空)](https://github.com/hhhhfff/myNotes/tree/master/FurtherMathematics/LinearAlgebra/LinearAlgebra/.md)
     - [线性代数](https://github.com/hhhhfff/myNotes/tree/master/FurtherMathematics/InfinitesimalCalculus/InfinitesimalCalculus.md)
