@@ -1,9 +1,9 @@
 # 我的学习笔记
 ## 目录
 1. 计算机基础
-    - [数据结构](../tree/master/ComputerScience/DataStructure/DataStructure.md)
+    - [数据结构](./tree/master/ComputerScience/DataStructure/DataStructure.md)
     - [组成原理](../tree/master/ComputerScience/ComputerOrganization/ComputerOrganization.md)
-    - [操作系统(空)](../tree/master/ComputerScience/OperatingSystem/OperatingSystem.md)
+    - [操作系统(空)](.../tree/master/ComputerScience/OperatingSystem/OperatingSystem.md)
     - [计算机网络](../tree/master/ComputerScience/ComputerNetworking/ComputerNetworking.md)
 2. 高等数学
     - [微积分(空)](../tree/master/FurtherMathematics/LinearAlgebra/LinearAlgebra/.md)
