@@ -2,13 +2,13 @@
 ## 目录
 1. 计算机基础
     - [数据结构](./tree/master/ComputerScience/DataStructure/DataStructure.md)
-    - [组成原理](../tree/master/ComputerScience/ComputerOrganization/ComputerOrganization.md)
-    - [操作系统(空)](.../tree/master/ComputerScience/OperatingSystem/OperatingSystem.md)
-    - [计算机网络](../tree/master/ComputerScience/ComputerNetworking/ComputerNetworking.md)
+    - [组成原理](./tree/master/ComputerScience/ComputerOrganization/ComputerOrganization.md)
+    - [操作系统](./tree/master/ComputerScience/OperatingSystem/OperatingSystem.md)
+    - [计算机网络](./tree/master/ComputerScience/ComputerNetworking/ComputerNetworking.md)
 2. 高等数学
-    - [微积分(空)](../tree/master/FurtherMathematics/LinearAlgebra/LinearAlgebra/.md)
-    - [线性代数](../tree/master/FurtherMathematics/InfinitesimalCalculus/InfinitesimalCalculus.md)
-3. [其他笔记](../tree/master/OtherNote)
+    - [微积分](./tree/master/FurtherMathematics/LinearAlgebra/LinearAlgebra/.md)
+    - [线性代数](./tree/master/FurtherMathematics/InfinitesimalCalculus/InfinitesimalCalculus.md)
+3. [其他笔记](./tree/master/OtherNote)
     - [CalculationalChemistry](../tree/master/OtherNote/CalculationalChemistry.md)
     计算电子结构动画的工作流程
     - [code-server](../tree/master/OtherNote/code-server.md)
